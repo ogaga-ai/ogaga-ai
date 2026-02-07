@@ -19,7 +19,8 @@ I build machine learning tools that solve real-world problems — from NLP senti
 
 ## Background
 
-- M.S. Computer Science — University of Texas at Dallas (2026)
+- M.S. Computer Science — University of Texas at Dallas (2026-2028)
+- M.S. Chemical Engineering 
 - B.S. Chemical Engineering
 - Published researcher — [Google Scholar](https://scholar.google.com/citations?user=rFn6CBQAAAAJ&hl=en&oi=ao)
 
