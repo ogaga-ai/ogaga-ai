@@ -4,7 +4,7 @@
 
 I build machine learning tools that solve real-world problems — I care about making AI that's explainable, fair, and useful.
 
-## What I'm Working On
+## What I'm currently Working On
 
 - **Sentiment Analysis Tool** — Multi-domain text classifier trained on 238K+ reviews (91.4% accuracy)
 - Building toward deep learning (DistilBERT), explainability (SHAP/LIME), and bias analysis
