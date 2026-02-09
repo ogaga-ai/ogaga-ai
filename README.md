@@ -2,7 +2,7 @@
 
 **Chemical Engineer turned AI/ML Engineer** | CS Grad Student @ UT Dallas
 
-I build machine learning tools that solve real-world problems — from NLP sentiment classifiers to scientific computing pipelines. I care about making AI that's explainable, fair, and useful.
+I build machine learning tools that solve real-world problems — I care about making AI that's explainable, fair, and useful.
 
 ## What I'm Working On
 
