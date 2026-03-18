@@ -5,9 +5,9 @@
 I build machine learning tools that solve real-world problems — I care about making AI that is explainable, fair, and useful.
 
 ## What I'm currently Working On
-
-- **Sentiment Analysis Tool** — Multi-domain text classifier trained on 238K+ reviews (91.4% accuracy)
-- Building toward deep learning (DistilBERT), explainability (SHAP/LIME), and bias analysis
+graduate coursework in AI/ML at UT Dallas
+Deepening foundations in ML engineering — PyTorch, model deployment, and MLOps
+Building toward roles at the intersection of AI and Chemical Engineering
 
 ## Tech Stack
 
