@@ -5,9 +5,9 @@
 I build machine learning tools that solve real-world problems — I care about making AI that is explainable, fair, and useful.
 
 ## What I'm currently Working On
-**graduate coursework in AI/ML at UT Dallas**
-**Deepening foundations in ML engineering — PyTorch, model deployment, and MLOps**
-**Building toward roles at the intersection of AI and Chemical Engineering**
+-graduate coursework in AI/ML at UT Dallas**
+-Deepening foundations in ML engineering — PyTorch, model deployment, and MLOps**
+-Building toward roles at the intersection of AI and Chemical Engineering**
 
 ## Tech Stack
 
