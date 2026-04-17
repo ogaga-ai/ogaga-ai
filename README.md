@@ -1,11 +1,10 @@
 # Hi, I'm Ogaga
 
-**Chemical Engineer turned AI/ML Engineer** | CS Grad Student @ UT Dallas
+**Chemical Engineer turned AI/ML Engineer**
 
-I build machine learning tools that solve real-world problems — I care about making AI that is explainable, fair, and useful.
+I build machine learning models that solve real-world problems — I care about making AI that is explainable, fair, and useful.
 
 ## What I'm currently Working On
-- graduate coursework in AI/ML at UT Dallas
 - Deepening foundations in ML engineering — PyTorch, model deployment, and MLOps
 - Building toward roles at the intersection of AI and Chemical Engineering
 
@@ -18,8 +17,6 @@ I build machine learning tools that solve real-world problems — I care about m
 **Tools:** Git | Jupyter | matplotlib | seaborn | joblib
 
 ## Background
-
-- M.S. Computer Science — University of Texas at Dallas (2026-2028)
 - M.S. Chemical Engineering (GPA-3.5/4)
 - B.S. Chemical Engineering (GPA-4.2/5)
 - Published researcher — [Google Scholar](https://scholar.google.com/citations?user=rFn6CBQAAAAJ&hl=en&oi=ao)
