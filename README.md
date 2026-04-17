@@ -2,7 +2,7 @@
 
 **Chemical Engineer turned AI/ML Engineer**
 
-I build machine learning models that solve real-world problems — I care about making AI that is explainable, fair, and useful.
+I build machine learning models that solve real-world problems. I care about making AI that is explainable, fair, and useful.
 
 ## What I'm currently Working On
 - Deepening foundations in ML engineering — PyTorch, model deployment, and MLOps
