@@ -2,17 +2,15 @@
 
 **Chemical Engineer turned AI/ML Engineer**
 
-I build machine learning models that solve real-world problems. I care about making AI that is explainable, fair, and useful.
+I am very passionate about applying modern technology to science; as such, I work at the intersection of Chemical Engineering and Computer Science. My work focuses on applying Artificial Intelligence and machine learning to Materials discovery and process systems with one goal in mind: to improve efficiency in manufacturing while developing better materials. 
 
-## What I'm currently Working On
-- Deepening foundations in ML engineering — PyTorch, model deployment, and MLOps
-- Building toward roles at the intersection of AI and Chemical Engineering
+Academically, I hold a Bachelor's and a Master's degree in Chemical Engineering. I am currently pursuing, simultaneously, a specialized path in Computer Science and a PhD in Materials Engineering. My experience is versatile and can be applied across various industries, including semiconductor manufacturing, the automotive industry (especially electric vehicles, batteries and lightweight materials), Pharmaceuticals and biotech, quantum computing, advanced and additive manufacturing, Robotics and autonomous systems, AI/ML for research labs, etc. I welcome you to take a tour of my profile. 
 
 ## Tech Stack
 
 **AI/ML:** Python | scikit-learn | pandas | TF-IDF | Logistic Regression | NLP
 
-**Scientific Computing:** MATLAB | Curve Fitting | Numerical Methods | Signal Processing
+**Programming Languages:** MATLAB | Python | Java | C | C++ |
 
 **Tools:** Git | Jupyter | matplotlib | seaborn | joblib
 
